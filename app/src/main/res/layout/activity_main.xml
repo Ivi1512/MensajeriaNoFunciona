@@ -25,7 +25,6 @@
         android:layout_marginLeft="@dimen/margenes1"
         android:layout_marginTop="@dimen/margenes2"
         android:layout_marginRight="@dimen/margenes1"
-        android:text="@string/txt_recibido1"
         android:visibility="visible"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
