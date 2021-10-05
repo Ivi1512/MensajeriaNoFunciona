@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mensajeria</string>
+    <string name="mensajeria">Mensajeria</string>
+    <string name="txt_recibido1">Aquí viene el texto recibido</string>
+    <string name="botonEnviar1">Enviar</string>
+    <string name="edt_hint_enviar1">Escribe aquí tu mensaje</string>
+</resources>
